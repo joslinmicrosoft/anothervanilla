@@ -6,4 +6,4 @@ I typed this shortly after I changed the branding name from Azure Pages to Azure
 
 Let's merge this PR...
 
-Testing Action Status
+Testing Action Status.
